@@ -26,7 +26,7 @@ namespace PolarisBiosEditor
         private UInt32 blkCRC32;
         const int vramTimingOffset = 0xBA;
         const int MAX_VRAM_ENTRIES = 32;
-        const string TOOL_VERSION = "1.4.2";
+        const string TOOL_VERSION = "1.5.0";
         const string TOOL_VERSION_EXTRA = " - Epsylon3";
 
         int atom_rom_checksum_offset = 0x21;
