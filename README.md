@@ -1,5 +1,7 @@
-# PolarisBiosEditor v1.4
-![PREVIEW](http://puu.sh/pRjD9/e085caaf23.png)
+# PolarisBiosEditor v1.5
+
+### v1.5
+- Fix temings editor 
 
 ### v1.4
 - Minor fixes

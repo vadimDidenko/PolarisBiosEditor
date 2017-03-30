@@ -1,0 +1,6 @@
+./vs/**
+./bin/**
+./obj/**
+/.vs/PolarisBiosEditor/v14
+/bin/Debug
+/obj/Debug
